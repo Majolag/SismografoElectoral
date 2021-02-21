@@ -1,0 +1,151 @@
+[
+    {
+        "id": "bogota",
+        "name": "Bogotá D.C.",
+        "entities": [
+            {
+                "name": "Claudia López",
+                "id": "clopez",
+                "color": "#2cc3ff"
+            },
+            {
+                "name": "Carlos Fernando Galán",
+                "id": "cgalan",
+                "color": "#eb1c24"
+            },
+            {
+                "name": "Miguel Uribe Turbay",
+                "id": "muribe",
+                "color": "#642b8f"
+            },
+            {
+                "name": "Hollman Morris",
+                "id": "hmorris",
+                "color": "#29b574"
+            }
+        ]
+    },
+    {
+        "id": "cali",
+        "name": "Cali",
+        "entities": [
+            {
+                "name": "Roberto Ortiz",
+                "id": "rortiz",
+                "color": "#fedd14"
+            },
+            {
+                "name": "Jorge Iván Ospina",
+                "id": "jospina",
+                "color": "#eb1c24"
+            },
+            {
+                "name": "Alejandro Éder",
+                "id": "aeder",
+                "color": "#5e57a5"
+            },
+            {
+                "name": "Roberto Rodríguez",
+                "id": "rrodriguez",
+                "color": "#f58807"
+            },
+            {
+                "name": "Michel Maya",
+                "id": "mmaya",
+                "color": "#29b574"
+            }
+        ]
+    },
+    {
+        "id": "medellin",
+        "name": "Medellin",
+        "entities": [
+            {
+                "name": "Alfredo Ramos Maya",
+                "id": "aramos",
+                "color": "#f58807"
+            },
+            {
+                "name": "Jesús Anibal Echeverri Jiménez",
+                "id": "jecheverri",
+                "color": "#eb1c24"
+            },
+            {
+                "name": "Juan David Valderrama",
+                "id": "jvalderrama",
+                "color": "#2cc3ff"
+            },
+            {
+                "name": "Juan Carlos Vélez",
+                "id": "jvelez",
+                "color": "#642b8f"
+            },
+            {
+                "name": "Daniel Quintero Calle",
+                "id": "dquintero",
+                "color": "#29b574"
+            },
+            {
+                "name": "Beatriz Rave",
+                "id": "brave",
+                "color": "#076ab5"
+            },
+            {
+                "name": "Cesar Hernandez",
+                "id": "chernandez",
+                "color": "#fedd14"
+            }
+        ]
+    },
+    {
+        "id": "cartagena",
+        "name": "Cartagena",
+        "entities": [
+            {
+                "name": "Adelina Covo",
+                "id": "acovo",
+                "color": "#f58807"
+            },
+            {
+                "name": "Yolanda Wong Baldiris",
+                "id": "ywong",
+                "color": "#eb1c24"
+            },
+            {
+                "name": "William García Tirado",
+                "id": "wgarcia",
+                "color": "#2cc3ff"
+            },
+            {
+                "name": "David Múnera Cavadia",
+                "id": "dmunera",
+                "color": "#642b8f"
+            },
+            {
+                "name": "Sergio Londoño Zurek",
+                "id": "slondono",
+                "color": "#29b574"
+            },
+            {
+                "name": "Fernando Araújo Perdomo",
+                "id": "faraujo",
+                "color": "#076ab5"
+            },
+            {
+                "name": "Claudia Fádul",
+                "id": "cfadul",
+                "color": "#fedd14"
+            },
+            {
+                "name": "Nabil Báladi Gedeón",
+                "id": "nbaladi",
+                "color": "#5e57a5"
+            },
+            {
+                "name": "Jaime Hernández Amin",
+                "id": "jhernandez",
+                "color": "#f58807"
+            }
+        ]
+    }
+]

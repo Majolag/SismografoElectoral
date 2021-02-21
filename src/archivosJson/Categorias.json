@@ -1,0 +1,281 @@
+[
+    {
+        "id": "bogota",
+        "name": "Bogotá",
+        "categories": [
+            {
+                "children": [],
+                "id": "movilidad",
+                "name": "Movilidad"
+            },
+            {
+                "children": [],
+                "id": "seguridad",
+                "name": "Seguridad"
+            },
+            {
+                "children": [],
+                "id": "medio_ambiente",
+                "name": "Medio ambiente"
+            },
+            {
+                "children": [],
+                "id": "ordenamiento_territorial",
+                "name": "Ordenamiento territorial"
+            },
+            {
+                "children": [],
+                "id": "drogas",
+                "name": "Drogas"
+            },
+            {
+                "children": [],
+                "id": "empleo",
+                "name": "Empleo"
+            },
+            {
+                "children": [],
+                "id": "localidades",
+                "name": "Localidades"
+            },
+            {
+                "children": [],
+                "id": "migracion",
+                "name": "Migración"
+            },
+            {
+                "children": [],
+                "id": "genero",
+                "name": "Género"
+            },
+            {
+                "children": [],
+                "id": "exclusion_social",
+                "name": "Exclusión social"
+            },
+            {
+                "children": [],
+                "id": "corrupcion",
+                "name": "Corrupción"
+            },
+            {
+                "children": [],
+                "id": "rivales",
+                "name": "Rivales"
+            }
+        ]
+    },
+    {
+        "id": "medellin",
+        "name": "Medellin",
+        "categories": [
+            {
+                "children": [],
+                "id": "seguridad",
+                "name": "Seguridad"
+            },
+            {
+                "children": [],
+                "id": "drogas",
+                "name": "Drogas"
+            },
+            {
+                "children": [],
+                "id": "urbanismo",
+                "name": "Urbanismo"
+            },
+            {
+                "children": [],
+                "id": "transporte_y_movilidad",
+                "name": "Transporte y movilidad"
+            },
+            {
+                "children": [],
+                "id": "medio_ambiente",
+                "name": "Medio ambiente"
+            },
+            {
+                "children": [],
+                "id": "informalidad",
+                "name": "Informalidad"
+            },
+            {
+                "children": [],
+                "id": "venezolanos",
+                "name": "Venezolanos"
+            },
+            {
+                "children": [],
+                "id": "comuna",
+                "name": "Comunas"
+            },
+            {
+                "children": [],
+                "id": "barrio",
+                "name": "Barrios"
+            },
+            {
+                "children": [],
+                "id": "crimen",
+                "name": "Crimen"
+            },
+            {
+                "children": [],
+                "id": "genero",
+                "name": "Género"
+            },
+            {
+                "children": [],
+                "id": "exclusion_social",
+                "name": "Exclusión social"
+            },
+            {
+                "children": [],
+                "id": "corrupcion",
+                "name": "Corrupción"
+            },
+            {
+                "children": [],
+                "id": "rivales",
+                "name": "Rivales"
+            }
+        ]
+    },
+    {
+        "id": "cali",
+        "name": "Cali",
+        "categories": [
+            {
+                "children": [],
+                "id": "seguridad",
+                "name": "Seguridad"
+            },
+            {
+                "children": [],
+                "id": "drogas",
+                "name": "Drogas"
+            },
+            {
+                "children": [],
+                "id": "movilidad",
+                "name": "Movilidad"
+            },
+            {
+                "children": [],
+                "id": "emcali",
+                "name": "EMCALI"
+            },
+            {
+                "children": [],
+                "id": "empleo",
+                "name": "Empleo"
+            },
+            {
+                "children": [],
+                "id": "agua",
+                "name": "Agua"
+            },
+            {
+                "children": [],
+                "id": "localidades",
+                "name": "Localidades"
+            },
+            {
+                "children": [],
+                "id": "crimen_organizado",
+                "name": "Crimen organizado"
+            },
+            {
+                "children": [],
+                "id": "exclusion_social",
+                "name": "Exclusión social"
+            },
+            {
+                "children": [],
+                "id": "genero",
+                "name": "Género"
+            },
+            {
+                "children": [],
+                "id": "rivales",
+                "name": "Rivales"
+            }
+        ]
+    },
+    {
+        "id": "cartagena",
+        "name": "Cartagena",
+        "categories": [
+            {
+                "children": [],
+                "id": "exclusion",
+                "name": "Exclusión social"
+            },
+            {
+                "children": [],
+                "id": "empleo",
+                "name": "Empleo"
+            },
+            {
+                "children": [],
+                "id": "inseguridad",
+                "name": "Inseguridad"
+            },
+            {
+                "children": [],
+                "id": "movilidad",
+                "name": "Movilidad"
+            },
+            {
+                "children": [],
+                "id": "medioambiente",
+                "name": "Medio ambiente"
+            },
+            {
+                "children": [],
+                "id": "vivienda",
+                "name": "Vivienda"
+            },
+            {
+                "children": [],
+                "id": "cultura_ciudadana",
+                "name": "Cultura ciudadana"
+            },
+            {
+                "children": [],
+                "id": "drogas",
+                "name": "Drogas"
+            },
+            {
+                "children": [],
+                "id": "localidades",
+                "name": "Localidades"
+            },
+            {
+                "children": [],
+                "id": "turismo_sexual",
+                "name": "Turismo sexual"
+            },
+            {
+                "children": [],
+                "id": "genero",
+                "name": "Género"
+            },
+            {
+                "children": [],
+                "id": "corrupcion",
+                "name": "Corrupción"
+            },
+            {
+                "children": [],
+                "id": "salud",
+                "name": "Salud"
+            },
+            {
+                "children": [],
+                "id": "rivales",
+                "name": "Rivales"
+            }
+        ]
+    }
+]
