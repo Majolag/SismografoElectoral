@@ -1,5 +1,7 @@
 import React from 'react';
 import Inputs from './Inputs';
+import Preguntas from './Preguntas';
+import Categorias from './Categorias';
 import { makeStyles } from '@material-ui/core/styles';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
@@ -47,9 +49,7 @@ const useStyles = makeStyles((theme) => ({
 }));
 
  export default function ButtonAppBar() {
-//     constructor(){
-//         super()
-//     }
+
 
     const classes = useStyles();
 
@@ -73,20 +73,22 @@ const useStyles = makeStyles((theme) => ({
                 <br />
                 <div className={classes.inputContainer}>
                 <PeopleOutlineRoundedIcon className={classes.iconSize}>
-                </PeopleOutlineRoundedIcon>
                 <Inputs></Inputs>
+                </PeopleOutlineRoundedIcon>
+
                 </div>
                 <br />
                 <div className={classes.inputContainer}>
                 <LocalLibraryRoundedIcon className={classes.iconSize}>
                 </LocalLibraryRoundedIcon>
-                <Inputs></Inputs>
+                <Categorias></Categorias>
+
                 </div>
                 <br />
                 <div className={classes.inputContainer}>
                 <QuestionAnswerRoundedIcon className={classes.iconSize}>
                 </QuestionAnswerRoundedIcon>
-                <Inputs></Inputs>
+                <Preguntas></Preguntas>
                 </div>
             </div>
         </div>
