@@ -10,7 +10,7 @@ const Service = () => {
     }, [])
 
     const catchData = async () => {
-        const data = await fetch('https://storage.googleapis.com/sismoee/2019/{ciudad}/{red-social}.json')
+        const data = await fetch('https://storage.googleapis.com/sismoee/2019/bogota/twitter.json')
         const city = await data.json()
         console.log(city)
         setCiudad(city)

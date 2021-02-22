@@ -6,7 +6,7 @@ import Inputs from "./components/Inputs";
 function App() {
   return (
     <div>
-      <Service />
+      {/* <Service /> */}
       <Styles />
 
 
