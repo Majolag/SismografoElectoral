@@ -1,7 +1,9 @@
 import React from 'react';
-import Inputs from './Inputs';
+import Ciudades from './Ciudades';
 import Preguntas from './Preguntas';
 import Categorias from './Categorias';
+// import Grafica from './Grafica';
+import Social from './Social';
 import { makeStyles } from '@material-ui/core/styles';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
@@ -36,10 +38,11 @@ const useStyles = makeStyles((theme) => ({
         backgroundColor: '#222059'
     },
     icons: {
-        marginTop: '350px'
+        display: 'flex',
+        marginTop: '160px',
     },
     iconSize: {
-        fontSize: '50px'
+        fontSize: '30px'
     },
     inputContainer: {
         display: 'inline-flex'
@@ -55,7 +58,7 @@ const useStyles = makeStyles((theme) => ({
 
     return (
         <div className={classes.root}>
-            <AppBar position="static">
+            <AppBar position="fixed">
                 <Toolbar className={classes.toolbar}>
                     <img src={whaleIcon} className={classes.imgSize} />
                     <Typography variant="h6" className={classes.title}>
@@ -64,32 +67,30 @@ const useStyles = makeStyles((theme) => ({
                 </Toolbar>
             </AppBar>
 
+            {/* <Grafica></Grafica> */}
+            <Social></Social>
+
             <div className={classes.icons}>
                 <div className={classes.inputContainer}>
                     <LocationCityRoundedIcon className={classes.iconSize}>
                     </LocationCityRoundedIcon>
-                    <Inputs></Inputs>
+                    <Ciudades></Ciudades>
                 </div>
-                <br />
-                <div className={classes.inputContainer}>
-                <PeopleOutlineRoundedIcon className={classes.iconSize}>
-                <Inputs></Inputs>
-                </PeopleOutlineRoundedIcon>
 
-                </div>
-                <br />
+
                 <div className={classes.inputContainer}>
                 <LocalLibraryRoundedIcon className={classes.iconSize}>
                 </LocalLibraryRoundedIcon>
                 <Categorias></Categorias>
-
                 </div>
-                <br />
+                
                 <div className={classes.inputContainer}>
                 <QuestionAnswerRoundedIcon className={classes.iconSize}>
                 </QuestionAnswerRoundedIcon>
                 <Preguntas></Preguntas>
                 </div>
+
+
             </div>
         </div>
 

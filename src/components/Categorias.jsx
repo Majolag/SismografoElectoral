@@ -11,9 +11,11 @@ const useStyles = makeStyles((theme) => ({
         marginTop: theme.spacing(2),
     },
     formControl: {
-        margin: theme.spacing(1),
-        minWidth: 120,
-    },
+            display: 'flex',
+            margin: theme.spacing(1),
+            minWidth: '200px',
+            whiteSpace: 'nowrap',
+        }
 }));
 
 export default function ControlledOpenSelect() {
